@@ -30,7 +30,17 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 # Dataset has been used:
 
---> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+--> https://shorturl.at/npNO8 [kaggle repo]
+
+# Concept used to build the model.pkl file: 
+# Cosine_Similarity:
+
+1. Cosine Similarity is a metric that allows you to measure the similarity of the documents.
+2. In order to demonstrate cosine similarity function we need vectors. Here vectors are numpy array.
+3. Finally, Once we have vectors, We can call cosine_similarity() by passing both vectors. It will calculate the cosine similarity between these two.
+4. It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
+5. For more details , check URL : https://shorturl.at/jJQX3
+
 
 
 
