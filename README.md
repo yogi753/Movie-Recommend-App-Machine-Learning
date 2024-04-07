@@ -4,9 +4,9 @@
    
 2. Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
-# Type of Recommendation System had Used
+# Recommendation System Used
 
-# 1) Content Based
+# Content-Based Approach 
 
 1. Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 2. Twitter , Youtube .
