@@ -28,6 +28,9 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 ![image](https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/e81570fd-20ef-4f95-8d77-66b8c8add852)
 
+# Dataset has been used:
+
+--> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 
