@@ -20,4 +20,9 @@
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a Sample Snapshots of Demo,
 
+# Demo Snaps:
+
+![image](https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/249e3c69-6e70-44fa-bb25-dcb8380e6570)
+
+
 
