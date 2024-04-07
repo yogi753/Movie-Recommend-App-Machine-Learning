@@ -28,9 +28,9 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 ![image](https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/e81570fd-20ef-4f95-8d77-66b8c8add852)
 
-
-<img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/249e3c69-6e70-44fa-bb25-dcb8380e6570" width="20" height ="20" />
-
+<p align = "center">
+   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/249e3c69-6e70-44fa-bb25-dcb8380e6570" width="200" height ="200" />
+</p>
 
 # Dataset has been used:
 
