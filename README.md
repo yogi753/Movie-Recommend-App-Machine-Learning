@@ -22,11 +22,11 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 # Demo Snaps:
 <p align = "center">
-   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/249e3c69-6e70-44fa-bb25-dcb8380e6570" width="800" height ="500" />
+   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/249e3c69-6e70-44fa-bb25-dcb8380e6570" width="800" height ="500" /><br>
 
-   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/990a6f3d-c150-4d03-80e6-55c380d33b97" width="800" height ="500" />
+   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/990a6f3d-c150-4d03-80e6-55c380d33b97" width="800" height ="500" /><br>
 
-   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/e81570fd-20ef-4f95-8d77-66b8c8add852" width="800" height ="500" />
+   <img src="https://github.com/yogi753/Movie-Recommend-App-Machine-Learning/assets/113347563/e81570fd-20ef-4f95-8d77-66b8c8add852" width="800" height ="500" /><br>
 </p>
 
 # Dataset has been used:
